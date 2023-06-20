@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1041722469189",
+    "project_id": "sharedlist-b2b40",
+    "storage_bucket": "sharedlist-b2b40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041722469189:android:7c4d537556567047d9ac2c",
+        "android_client_info": {
+          "package_name": "br.edu.ifsp.ads.pdm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041722469189-rm767ge3jtqsvghhl47me09ve84i6avm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.edu.ifsp.ads.pdm",
+            "certificate_hash": "8bdd513b227fc8d7be914b8aca431523a2de68db"
+          }
+        },
+        {
+          "client_id": "1041722469189-ist4cudttj05qfgkvfdbbnf9iuamsvdr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW3EGaQQOkmQz5wt6J4UU1HhVsjbCCyMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041722469189-ist4cudttj05qfgkvfdbbnf9iuamsvdr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

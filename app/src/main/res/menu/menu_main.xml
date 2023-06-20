@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/addTaskMi"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_add_task"
+        android:title="@string/menu_add_new_task" />
+
+    <item
+        android:id="@+id/signOutMi"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_logout"
+        android:title="@string/menu_logout" />
+</menu>

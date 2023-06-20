@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="red_200">#fecaca</color>
+    <color name="red_600">#dc2626</color>
+    <color name="red_900">#7f1d1d</color>
+
+    <color name="zinc_50">#fafafa</color>
+    <color name="zinc_100">#f4f4f5</color>
+    <color name="zinc_200">#e4e4e7</color>
+    <color name="zinc_300">#d4d4d8</color>
+    <color name="zinc_400">#a1a1aa</color>
+    <color name="zinc_500">#71717a</color>
+    <color name="zinc_600">#52525b</color>
+    <color name="zinc_700">#3f3f46</color>
+    <color name="zinc_800">#27272a</color>
+    <color name="zinc_900">#18181b</color>
+
+    <color name="medium_purple_50">#f4f4fe</color>
+    <color name="medium_purple_100">#edeafd</color>
+    <color name="medium_purple_200">#ddd8fc</color>
+    <color name="medium_purple_300">#c3b9f9</color>
+    <color name="medium_purple_400">#a492f3</color>
+    <color name="medium_purple_500">#8665ed</color>
+    <color name="medium_purple_600">#8257e5</color>
+    <color name="medium_purple_700">#6533ce</color>
+    <color name="medium_purple_800">#542aad</color>
+    <color name="medium_purple_900">#47248e</color>
+
+    <color name="sea_green_50">#f2fbf3</color>
+    <color name="sea_green_100">#e1f7e4</color>
+    <color name="sea_green_200">#c5edc9</color>
+    <color name="sea_green_300">#98dda0</color>
+    <color name="sea_green_400">#63c56f</color>
+    <color name="sea_green_500">#3daa4b</color>
+    <color name="sea_green_600">#32993f</color>
+    <color name="sea_green_700">#276e31</color>
+    <color name="sea_green_800">#23582a</color>
+    <color name="sea_green_900">#1f4825</color>
+</resources>

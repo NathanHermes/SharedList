@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">SharedList</string>
+    <string name="create_account_login_resetPass_email_et">E-mail</string>
+    <string name="create_account_login_pass_et">Senha</string>
+    <string name="create_account_repeat_pass_et">Repetir senha</string>
+    <string name="create_account_save_bt">Cadastrar</string>
+    <string name="login_login_bt">Entrar</string>
+    <string name="login_pass_reset_bt">Recuperar senha</string>
+    <string name="login_create_account_bt">Cadastrar</string>
+    <string name="reset_pass_send_mail_bt">Enviar email</string>
+    <string name="menu_add_new_task">Add new task</string>
+    <string name="menu_logout">Logout</string>
+    <string name="tile_task_title_tv">Title of task</string>
+    <string name="tile_task_date_tv">Previous to completed</string>
+    <string name="task_title_tv">Título:</string>
+    <string name="task_title_et">Título</string>
+    <string name="task_description_tv">Descrição:</string>
+    <string name="task_description_et">Descrição</string>
+    <string name="task_previous_finish_tv">Previsão de conclusão:</string>
+    <string name="task_previous_finish_et">Previsão de conclusão</string>
+    <string name="task_created_at_tv">Data de criação:</string>
+    <string name="task_created_at_et">Data de criação</string>
+    <string name="task_user_tv">E-mail do criador:</string>
+    <string name="task_user_et">Email do criador</string>
+    <string name="task_completed_by_tv">Concluido por:</string>
+    <string name="task_completed_by_et">Concluido por ...</string>
+    <string name="task_save_bt">Save</string>
+</resources>

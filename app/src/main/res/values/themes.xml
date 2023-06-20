@@ -1,0 +1,33 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SharedList" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/medium_purple_600</item>
+        <item name="colorOnPrimary">@color/zinc_50</item>
+        <item name="colorPrimaryContainer">@color/medium_purple_200</item>
+        <item name="colorOnPrimaryContainer">@color/medium_purple_900</item>
+        <item name="colorPrimaryVariant">@color/medium_purple_700</item>
+
+        <item name="colorSecondary">@color/sea_green_600</item>
+        <item name="colorOnSecondary">@color/zinc_50</item>
+        <item name="colorSecondaryContainer">@color/sea_green_200</item>
+        <item name="colorOnSecondaryContainer">@color/sea_green_900</item>
+
+        <item name="colorError">@color/red_600</item>
+        <item name="colorOnError">@color/zinc_50</item>
+        <item name="colorErrorContainer">@color/red_200</item>
+        <item name="colorOnErrorContainer">@color/red_900</item>
+
+        <item name="background">@color/zinc_50</item>
+        <item name="colorOnBackground">@color/zinc_900</item>
+        <item name="colorSurface">@color/zinc_50</item>
+        <item name="colorOnSurface">@color/zinc_900</item>
+
+        <item name="colorOutline">@color/zinc_500</item>
+
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+    </style>
+
+    <style name="Theme.SharedList" parent="Base.Theme.SharedList" />
+</resources>
